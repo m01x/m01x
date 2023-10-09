@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Moix aka. m01x</h1>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" alt="CodingGuy" width="400"/>
 <h3 align="center">A passionate webdev from Chile🆑, learning something new!</h3>
