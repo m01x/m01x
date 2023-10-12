@@ -24,7 +24,7 @@
 <p><b>*** Trusted Developers ***</b>
 <ul>
   <li><b>Kuroro</b>:<a src="https://github.com/jocbitran" target="_blank">Kuroro's github</a> </li>
-  <li><b>Velx</b>:<a src="https://github.com/#" target="_blank"> :P </a> </li>
+  <li><b>pv1n</b>:<a src="https://github.com/pv1n" target="_blank"> pv1n's github</a> </li>
 </ul></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m01x&show_icons=true&locale=en&layout=compact" alt="m01x" /></p>
