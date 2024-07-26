@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arsenal+SC&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moix+aka.+m01x)](https://git.io/typing-svg)
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" alt="CodingGuy" width="400"/>
 
 
 ![m01x's GitHub stats](https://github-readme-stats.vercel.app/api?username=m01x&theme=radical&show_icons=true)
