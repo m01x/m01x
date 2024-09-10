@@ -99,9 +99,11 @@ In this space, I share my projects, exercises, and courses. Trying to do my best
 <a href="https://instagram.com/don_moix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="don_moix" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Trusted Devs♥</h2>
-<ul align="center">
-  <li><a href="https://github.com/jocbitran" target="_blank" rel="noopener noreferrer">Kuroro's GitHub</a></li>
-  <li><a href="https://github.com/pv1n" target="_blank" rel="noopener noreferrer">pv1n's GitHub</a></li>
-</ul>
+<h3 align="center">Trusted Devs♥</h3>
+<p align="center">
+    <a href="https://github.com/jocbitran" target="_blank" rel="noopener noreferrer">Kuroro's GitHub</a></br>
+    <a href="https://github.com/pv1n" target="_blank" rel="noopener noreferrer">pv1n's GitHub</a>
+</p>
+
+
 
