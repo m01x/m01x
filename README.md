@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arsenal+SC&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moix+aka.+m01x)](https://git.io/typing-svg)
 
-"I’m a software development enthusiast from Chile🆑, and a fan of board games🎲 and The Lord of the Rings💍. In this space, I share my projects, exercises, and courses as I strive to do my best 🤓."
+"I’m a software development enthusiast from Chile🆑, and a fan of board games🎲 and The Lord of the Rings💍. In this space, I share my projects, exercises, and courses as I strive to do my best 🤓. THIS GIT IS PERSONAL, NOT MY WORKING PROFILE 🙃"
 
-# 📜 Languages, Frameworks and stuff 
+# 📜 Tech Stack
 <small><i>(learned and in progress 📚)</i></small>
 
 <h4 align="center">Frontend stack</h4>
