@@ -65,9 +65,8 @@ const  m01x: Developer =  {
   </tr>
 </table>
 
-
-## Stats
-
+<details>
+  <summary><h3>📊See Stats</h3></summary>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=m01x&theme=radical&show_icons=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m01x&layout=compact&theme=radical" width="300" />
@@ -75,16 +74,7 @@ const  m01x: Developer =  {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m01x&theme=tokyo-night" width="600" />
 </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/donmoix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="donmoix" height="30" width="40" /></a>
-<a href="https://dev.to/m01x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="m01x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fortizdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fortizdev" height="30" width="40" /></a>
-<a href="https://instagram.com/don_moix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="don_moix" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Trusted Devs♥</h3>
-<p align="center">
-    <a href="https://github.com/jocbitran" target="_blank" rel="noopener noreferrer">Kuroro's GitHub</a></br>
-    <a href="https://github.com/pv1n" target="_blank" rel="noopener noreferrer">pv1n's GitHub</a>
-</p>
+</details>
+<div align="center">
+<img src="./imgs/koipond.png" alt="footer"/>
+</div>
