@@ -12,12 +12,12 @@ const  m01x: Developer =  {
 	focus:  "Full Stack JS Development",
 	passion:  "Contributing to my environment with scalable and ever-improving solutions",
 	proficiency:  ["Typescript",  "PHP",  "SQL"],
-	Styding:  ["Redux-toolkit",  "Node",  "Astro",  "Azure"],
+	CurrentlyStyding:  ["Redux-toolkit",  "Node",  "Astro",  "AWS", "Nest JS"],
 	stack:  {
-		frontend:  ["React",  "Shadcn"],
-		backend:  ["PHP",  "Node"],
-		database:  ["SQL",  "Mongo"],
-		interestedIn:  ["Python",  "Power BI",  "Nest.Js",  "Astro",  "Zustand"]
+		frontend:  ["React", "Redux", "Jquery", "Shadcn", "TanStack", "A bit of Next.JS 14+"],
+		backend:  ["PHP",  "Node", "a bit of Nest"],
+		database:  ["SQL",  "Mongo", "MySQL"],
+		interestedIn:  ["Python",  "Power BI",  "Nest.Js",  "Astro",  "TanStart Beta"]
 	},
 	buildSolutions:  ()  =>  "Scalable apps with optimal user support"
 };
