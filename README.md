@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./imgs/logo.png" alt="M01x Logo" width="200" />
+  <img src="./imgs/logo-border-big.png" alt="M01x Logo" />
 </div>
 
 My name is Flavio, known as M01x, I'm a computer engineer and a software development enthusiast. I enjoy learning new things📚, reading great stories🪄, and savoring good coffee☕~
